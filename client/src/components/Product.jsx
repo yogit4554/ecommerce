@@ -4,6 +4,7 @@ import axios from "../axios";
 
 const Product = () => {
   const { id } = useParams();
+  console.log("ID", id);
 const [product, setProduct] = useState(null);
 
   useEffect(() => {
