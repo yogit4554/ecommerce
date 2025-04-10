@@ -7,18 +7,16 @@
     <list default="true" id="daf02adb-8d29-4291-bc30-074afda0f31b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/client/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/axios.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/axios.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/Cart.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Cart.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/CheckoutPopup.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/CheckoutPopup.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Home.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Navbar.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/Product.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Product.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/vite.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/UpdateProduct.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/UpdateProduct.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/src/main/java/com/yteewari/fullStakProject/controller/productController.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/com/yteewari/fullStakProject/controller/productController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/yteewari/fullStakProject/repository/ProductRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/com/yteewari/fullStakProject/repository/ProductRepo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/src/main/java/com/yteewari/fullStakProject/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/com/yteewari/fullStakProject/service/ProductService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
