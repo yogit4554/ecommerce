@@ -5,10 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="daf02adb-8d29-4291-bc30-074afda0f31b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/AddProduct.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/AddProduct.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Cart.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Cart.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Home.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Navbar.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/Product.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Product.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/src/main/java/com/yteewari/fullStakProject/controller/productController.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/com/yteewari/fullStakProject/controller/productController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/src/main/java/com/yteewari/fullStakProject/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/com/yteewari/fullStakProject/model/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/src/main/java/com/yteewari/fullStakProject/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/com/yteewari/fullStakProject/service/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/resources/data1.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
